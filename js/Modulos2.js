@@ -1,0 +1,1 @@
+import def, {name, lastName} from './Modulo_dos.mjs'
