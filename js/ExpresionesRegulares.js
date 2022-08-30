@@ -1,5 +1,5 @@
 let texto = "Las expresiones regulares facilita el trabajo de encontrar en el texto y una porción de texto específico";
-let texto2 = "El conjunto de datos A: 100 tienen 60000 registros";
+let texto2 = "El conjunto de datos A: 51234 tienen 60000 registros";
 
 console.log("Expresiones regulares: ");
 console.log(texto);
